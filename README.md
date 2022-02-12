@@ -8,9 +8,6 @@
 
 
 
-
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -59,9 +56,9 @@ python -m venv venv
    git clone https://github.com/ramesh1212445/djangoWebApp-REWORK.git
    ```
 2. Install python packages
-   ```sh
-   pip install -r requirements.txt
-   ```
+```sh
+pip install -r requirements.txt
+```
 3. Make migrations
 ```sh
 save.bat
@@ -78,17 +75,6 @@ startServer.bat
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/ramesh-shyaman-43b991203/
