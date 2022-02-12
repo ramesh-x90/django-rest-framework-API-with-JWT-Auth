@@ -19,7 +19,7 @@ implemented password hashing
 implemented email validation
 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+
 
 
 
@@ -30,7 +30,6 @@ implemented email validation
 * [django-rest-framework-simplejwt](https://django-rest-framework-simplejwt.readthedocs.io/)
 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
@@ -44,14 +43,14 @@ To get a local copy up and running follow these steps.
 
 
 * [python virtual environments] : (https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/)
-  ```sh
+```sh
 python -m venv venv
-  ```
+```
 
 ### Installation
 
 
-1. Clone the repo
+1.Clone the repo 
    ```sh
    git clone https://github.com/ramesh1212445/djangoWebApp-REWORK.git
    ```
