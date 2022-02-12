@@ -58,11 +58,19 @@ python -m venv venv
 ```sh
 pip install -r requirements.txt
 ```
-3. Make migrations
+3. .env file
+
+SECRET_KEY = "server_secret_key"
+
+
+EMAIL_HOST_USER = "Example@gmail.com"
+EMAIL_HOST_PASSWORD = "xxxxx1111111"
+
+4. Make migrations
 ```sh
 save.bat
 ```
-4. Run server
+5. Run server
 ```sh
 startServer.bat
 ```
