@@ -75,7 +75,7 @@ save.bat
 startServer.bat
 ```
 5. Admin Panel
-[Admin Panel] (http://127.0.0.1:8080/)
+[Admin Panel] (http://127.0.0.1:8080/admin/)
 
 
 
