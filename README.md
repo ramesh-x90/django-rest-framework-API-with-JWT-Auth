@@ -13,10 +13,10 @@
 
 # djangoWebApp-REWORK
 
-*this is a django rest backend fr healthcare web application
-*implemented OAuth 2.0 with JWT token to authenticate users
-*implemented password hashing 
-*implemented email validation
+this is a django rest backend fr healthcare web application.
+implemented OAuth 2.0 with JWT token to authenticate users.
+implemented password hashing .
+implemented email validation.
 
 
 
