@@ -63,7 +63,7 @@ pip install -r requirements.txt
 SECRET_KEY = "server_secret_key"
 
 
-EMAIL_HOST_USER = "Example@gmail.com"
+EMAIL_HOST_USER = "Example@yahoo.com"
 EMAIL_HOST_PASSWORD = "xxxxx1111111"
 ```
 4. Make migrations
