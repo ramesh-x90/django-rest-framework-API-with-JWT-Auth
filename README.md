@@ -36,7 +36,7 @@ To get a local copy up and running follow these steps.
 ### Prerequisites
 
 
-* [python virtual environments] : (https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/)
+* [python virtual environments](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/)
 ```sh
 python -m venv venv
 ```
@@ -69,7 +69,7 @@ save.bat
 startServer.bat
 ```
 5. Admin Panel
-[Admin Panel] (http://127.0.0.1:8080/admin/)
+[Admin Panel](http://127.0.0.1:8080/admin/)
 
 
 
