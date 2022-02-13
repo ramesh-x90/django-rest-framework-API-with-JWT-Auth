@@ -71,7 +71,9 @@ startServer.bat
 5. Admin Panel
 [Admin Panel] (http://127.0.0.1:8080/admin/)
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
+
+
+##[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
