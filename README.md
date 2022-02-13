@@ -2,12 +2,6 @@
 
 
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
@@ -52,7 +46,7 @@ python -m venv venv
 
 1.Clone the repo 
    ```sh
-   git clone https://github.com/ramesh1212445/djangoWebApp-REWORK.git
+   git clone https://github.com/ramesh1212445/django-rest-framework-API-with-OAuth-2.0.git
    ```
 2. Install python packages
 ```sh
@@ -77,7 +71,7 @@ startServer.bat
 5. Admin Panel
 [Admin Panel] (http://127.0.0.1:8080/admin/)
 
-
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
