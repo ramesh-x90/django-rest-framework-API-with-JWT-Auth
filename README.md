@@ -73,7 +73,7 @@ startServer.bat
 
 
 
-##[![LinkedIn][linkedin-shield]][linkedin-url]
+## [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
