@@ -8,7 +8,7 @@
 # django-rest-framework-API-with-OAuth-2.0 (djangoWebApp-REWORK)
 
 this is a django rest backend fr healthcare web application.
-implemented OAuth 2.0 with JWT token to authenticate users.
+implemented JWT token to authenticate users.
 implemented password hashing .
 implemented email validation.
 
@@ -46,7 +46,7 @@ python -m venv venv
 
 1.Clone the repo 
    ```sh
-   git clone https://github.com/ramesh1212445/django-rest-framework-API-with-OAuth-2.0.git
+   git clone https://github.com/ramesh1212445/django-rest-framework-API-with-JWT-Auth.git
    ```
 2. Install python packages
 ```sh
