@@ -5,7 +5,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-# djangoWebApp-REWORK
+# django-rest-framework-API-with-OAuth-2.0 (djangoWebApp-REWORK)
 
 this is a django rest backend fr healthcare web application.
 implemented OAuth 2.0 with JWT token to authenticate users.
