@@ -7,10 +7,10 @@
 
 # django-rest-framework-API-with-OAuth-2.0 (djangoWebApp-REWORK)
 
-this is a django rest backend fr healthcare web application.
-implemented JWT token to authenticate users.
-implemented password hashing .
-implemented email validation.
+this is a django rest backend for healthcare web application. <br>
+implemented JWT token to authenticate users.<br>
+implemented password hashing .<br>
+implemented email validation.<br>
 
 
 
